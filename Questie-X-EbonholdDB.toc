@@ -1,0 +1,14 @@
+## Interface: 30300
+## Title: |cFF5EBAF3Questie|r|cFFDAFAFD-X-EbonholdDB|r
+## Notes: Ebonhold server database plugin for Questie-X
+## Author: Xurkon
+## Version: 1.0.0
+## Dependencies: Questie-X
+
+Ebonhold\EbonholdNpcDB.lua
+Ebonhold\EbonholdObjectDB.lua
+Ebonhold\EbonholdItemDB.lua
+Ebonhold\EbonholdQuestDB.lua
+Zones\EbonholdUiMapData.lua
+Zones\EbonholdZoneTables.lua
+EbonholdLoader.lua
